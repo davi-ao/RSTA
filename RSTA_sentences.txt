@@ -1,0 +1,131 @@
+Reading Span Test for Adolescent Speakers of Brazilian Portuguese
+(in press)
+
+Sentences 
+
+01 - O rei chora, como se tivesse guardado aquela dor durante muitos séculos seguidos. (Bagno, Marcos. O espelho dos nomes, 2014, p. 117). 13 words.
+02 - Quando faltam nutrientes na alimentação, a pessoa pode ficar desnutrida e ter problemas de saúde. (do Canto, Eduardo Leite. Ciências Naturais. Aprendendo com o cotidiano. 6º ano, 2009, p. 82). 15 words.
+03 - O pior é que não sabia nem como tinha ido parar ali, quanto mais como iria escapar. (Carpes, Patrícia. Naufragados, 2012, p. 33). 17 words.
+04 - Muitas palavras do vocabulário, alimentos e costumes do brasileiro de hoje derivam de culturas indígenas. (Vicentino, Cláudio & Vicentino, José Bruno. Projeto Mosaico - História - 6º ano, 2015, p. 63). 15 words.
+05 - A mulher está sorrindo e aperta sua mão com tanta força que ela sente os dedos estalando. (Camargo, Maria. O medo do mar, 2014, p. 81). 17 words.
+06 - As regiões polares, também chamadas de polos, localizam-se nos extremos norte e sul do planeta. (Sampaio, Fernando dos Santos, de Medeiros, Marlon Clovis & da Silva, Vagner Augusto. Geografia - Para Viver Juntos -9º ano, 2012, p. 249). 15 words.
+07 - Ele não ouve nada e ninguém, a não ser o que passa na janela mágica. (Alencar, Alécio. Janela mágica, 1997, p. 18). 15 words.
+08 - Os conhecimentos obtidos em viagens escolares podem ser o ponto de partida para estudos mais profundos. (Sampaio, Fernando dos Santos, de Medeiros, Marlon Clovis & da Silva, Vagner Augusto. Geografia - Para Viver Juntos -8º ano, 2012, p. 95). 16 words.
+09 - Em uma multiplicação, é possível trocar a ordem dos fatores que o resultado não se altera. (Souza, Joamir & Pataro, Patricia Moreno. Vontade de Saber - Matemática - 6º ano, 2015, p. 68). 16 words.
+10 - O homem que servia cafezinho para as pessoas não se conteve e abraçou os dois músicos. (Azevedo, Ricardo. Trezentos parafusos a menos, 2009, p. 126). 16 words.
+11 - A comunicação e a troca de informações entre pessoas também ajudam a organizar o espaço geográfico. (de Sene, Eustáquio & Moreira, João Carlos. Geografia -6º ano, 2013, p. 23). 16 words.
+12 -Andaram muitos dias pela mata virgem até que avistaram uma porta de outra povoação. (Caruso, Carla. Zumbi. O último herói dos Palmares, 2005, p. 31). 14 words.
+13 - As plantas também precisam de energia, porém não se alimentam da mesma forma que os animais. (do Canto, Eduardo Leite. Ciências Naturais. Aprendendo com o cotidiano. 6º ano, 2009, p. 21). 16 words.
+14 - A vida foi se instalando, novamente cheia de prazer, até o galo cantar a madrugada. (Albissú, Nelson. É difícil de entender, vô!, 2010, p. 36). 15 words.
+15 - Os mapas representam áreas mais extensas da superfície da Terra; por isso não mostram muitos detalhes. (de Sene, Eustáquio & Moreira, João Carlos. Geografia -6º ano, 2013, p. 61). 16 words.
+16 - Logo após serem alertados pelo alarme do banco, vários carros de polícia chegaram com as sirenes abertas. (Bandeira, Pedro. A droga da obediência, 1997, p. 61). 17 words.
+17 - Para medirmos o tempo do dia, utilizamos o relógio, que pode ser de ponteiros ou digital. (Souza, Joamir & Pataro, Patricia Moreno. Vontade de Saber - Matemática - 6º ano, 2015, p. 254). 16 words.
+18 - Elas desfiam o pano e depois amarram uns fios de tecido com os outros, formando desenhos. (Alegria, João & Medeiros, Rodrigo. Manual do defensor do planeta, 2012, p. 47). 16 words.
+19 - Um dos critérios que os biólogos escolheram diz respeito à maneira como o ser vivo obtém alimento. (do Canto, Eduardo Leite. Ciências Naturais. Aprendendo com o cotidiano. 7º ano, 2012, p.19). 17 words.
+20 - Durante a travessia, os comunistas conquistaram novos adeptos e difundiram suas ideias aos camponeses. (Braick, Patrícia Ramos. Estudar História -9º ano, 2015, p. 151). 14 words.
+21 - Confessou à princesa que tudo aquilo que fez foi pelo prazer simples de trazer felicidade a alguém. (Bagno, Marcos. O espelho dos nomes, 2014, p. 59). 17 words.
+22 - A essa hora o lugar está deserto e também muito escuro devido à falta de energia. (Azevedo, Ricardo. A hora do cachorro louco, 2006, p. 86). 16 words.
+23 - O homem ficou a noite inteira olhando aquele grande corpo escuro com cabeça luminosa. (Ayala, Walmir. Moça lua e outras lendas, 2012, p. 58). 14 words.
+24 - Os gregos acreditavam que os deuses podiam tanto favorecer quanto prejudicar os seres humanos. (Boulos Júnior, Alfredo. História - Sociedade e Cidadania -6º ano, 2015, p. 232). 14 words.
+25 - O pai costuma dizer que está com saudades delas, já que agora raramente aparecem. (Camargo, Maria. O medo do mar, 2014, p. 34). 14 words.
+26 - Os dois giraram vagarosamente, um para cada lado, olhando o depósito, até que deram de cara conosco. (Alves-Calado, Ivanir. A caverna dos Titãs, 2008, p. 129). 17 words.
+27 - Disseram que estava muito frio por lá, mas que a festa era muito bonita. (Carpes, Patrícia. Naufragados, 2012, p. 11). 14 words.
+28 - Os semideuses, embora tenham dons especiais, não são donos de seu destino nem imortais. (Cereja, William & Cochar, Thereza. Português Linguagens -7º ano, 2015, p. 21). 14 words.
+29 - Os trabalhadores informais exercem atividades rurais, na construção civil, em oficinas, fábricas e no setor de transporte. (Sampaio, Fernando dos Santos, de Medeiros, Marlon Clovis e da Silva. Geografia - Para Viver Juntos -7º ano, 2012, p. 73). 17 words.
+30 - Os sons podem ser classificados com base no estudo e características das fontes sonoras. (Utuari, Solange, Kater, Carlos, Fischer Bruno & Ferrari, Pascoal. Por toda Parte - Artes - 6º ano, 2015, p. 39). 14 words.
+31 - Quando eles descobrissem qual era esse detalhe, com certeza chegariam com rapidez à solução do problema. (Bandeira, Pedro. A droga da obediência, 1997, p. 28). 16 words.
+32 - A cidade é um lugar de encontro, onde as pessoas podem compartilhar a dor e a alegria. (Meira, Beá, Soter Silvia, Elia, Ricardo & Presto, Rafael. Projeto Mosaico - Arte - 7º ano, 2015, p.12). 17 words.
+33 - Com a Internet, até mesmo a forma de escrever as palavras tem se modificado. (Cereja, William & Cochar, Thereza. Português Linguagens -6º ano, 2015, p. 40). 14 words.
+34 - Bateu na mesa e continuou, o rosto mais vermelho que o caminhão de bombeiros. (Cazarré, Lourenço. O mistério da obra-prima, 1993, p. 59). 16 words.
+35 - Assim, os passageiros daquele voo desceram normalmente e dirigiram-se para o local onde apresentariam os passaportes. (Bandeira, Pedro. Anjo da morte, 1995, p. 83). 16 words.
+36 - As cidades crescem graças ao comércio, e, quanto maiores ficam, mais se transformam em centros de consumo. (Meira, Beá, Soter Silvia, Elia, Ricardo & Presto, Rafael. Projeto Mosaico - Arte - 7º ano, 2015, p.17). 17 words.
+37 - O inglês parou um pouco, tomando fôlego, tentando, tentando lembrar-se com esforço do que havia ouvido. (Bandeira, Pedro. A hora da verdade, 1998, p. 72). 16 words.
+38 - Uma célula é uma pequena estrutura viva, que pode ser vista com o auxílio de um microscópio. (do Canto, Eduardo Leite. Ciências Naturais. Aprendendo com o cotidiano. 7º ano, 2012, p.45). 17 words.
+39 - O velho deu meia-volta e encaminhou-se de cabeça baixa para uma porta lateral. (Bandeira, Pedro. Anjo da morte, 1995, p. 68). 14 words.
+40 - De uma hora para outra, tudo naquela casa parecia ter ficado velho, gasto e ultrapassado. (Azevedo, Ricardo. Trezentos parafusos a menos, 2009, p. 62). 15 words.
+41 - Os faraós egípcios trabalhavam na construção de obras grandiosas, como túmulos, templos e palácios. (Boulos Júnior, Alfredo. História - Sociedade e Cidadania -6º ano, 2015, p. 151). 14 words.
+42 - De costas para a TV, a empregada lava a louça e canta baixinho um belo hino religioso. (Azevedo, Ricardo. A hora do cachorro louco, 2006, p. 12). 17 words.
+43 - A formação de grandes reinos ao sul do Saara esteve diretamente ligada ao comércio a longa distância. (Apolinário, Maria Raquel. Projeto Araribá - História - 7º ano, 2010, p. 50). 17 words.
+44 - Podemos dizer que um texto está em prosa quando ele é organizado em frases contínuas formando parágrafos. (Borgato, Ana Trinconi, Bertin, Terezinha & Marchezi, Vera. Projeto Teláris - Português -6º ano, 2014, p. 22). 17 words.
+45 - Espalhados pelo pátio, outros alunos também tentavam conseguir informações sobre a nova professora, mas sem sucesso. (Barlow, Steve & Skidmore, Steve. Trans. Lando, Isa Mara & Lando, Mauro - Estátua, 2010, p. 23). 16 words.
+46 - Mas já que não pode perguntar tudo o que quer saber, pergunta apenas o mais importante. (Colasanti, Marina. Ana Z. aonde vai você?, 2007, p. 15). 16 words.
+47 - Uma aula de Geografia arrastou-se inteirinha, até que batesse o sinal para o intervalo. (Bandeira, Pedro. A hora da verdade, 1998, p. 111). 14 words.
+48 - Em meio ao clarão aparece uma garra, só uma, enorme, raspando devagar o piso áspero. (Alves-Calado, Ivanir. A caverna dos Titãs, 2008, p. 07). 15 words.
+49 - Rolava para um lado, depois para o outro, enquanto mil pensamentos rodavam na sua cabeça. (Albissú, Nelson. É difícil de entender, vô!, 2010, p. 32). 15 words.
+50 - Apesar de perder a predominância, o açúcar ainda continuou sendo um produto importante para as exportações. (Apolinário, Maria Raquel. Projeto Araribá - História - 8º ano, 2014, p. 201). 16 words.
+51 - Uma criança que trabalha não consegue desfrutar de direitos básicos, como lazer e educação. (Vicentino, Cláudio & Vicentino, José Bruno. Projeto Mosaico - História - 6º ano, 2015, p. 177). 15 words.
+52 - Escolheram um lugar especial, no alto de uma colina, de onde dava para ver toda a cidade. (Alegria, João & Medeiros, Rodrigo. Manual do defensor do planeta, 2012, p. 140). 16 words.
+53 - As terras situadas a oeste das treze colônias ficaram sob controle militar da metrópole. (Apolinário, Maria Raquel. Projeto Araribá - História - 8º ano, 2014, p. 95). 14 words.
+54 - A intensidade da exploração dos recursos pela industrialização levou ao esgotamento total dos recursos minerais e energéticos. (Sampaio, Fernando dos Santos, de Medeiros, Marlon Clovis & da Silva, Vagner Augusto. Geografia - Para Viver Juntos -9º ano, 2012, p. 87). 17 words.
+55 - A ameaça de uma invasão alemã à ilha foi utilizada como tema de vários cartazes. (Braick, Patrícia Ramos. Estudar História -9º ano, 2015, p. 69). 15 words.
+56 - Sua boca abriu-se como se ele estivesse prestes a comer uma maçã com uma só dentada. (Cazarré, Lourenço. O mistério da obra-prima, 1993, p. 39). 16 words.
+57 - O menino sorridente esperava por ela e adormeceu ouvindo a linda história daquele passeio. (Ayala, Walmir. Moça lua e outras lendas, 2012, p. 72). 14 words.
+58 - Em áreas onde a vegetação está bem preservada, a água das chuvas escoa lentamente pela superfície. (de Sene, Eustáquio & Moreira, João Carlos. Geografia -6º ano, 2013, p. 145). 16 words.
+59 - As denúncias de trabalho escravo também atingem os caminhoneiros, outros trabalhadores que podem ser considerados escravos urbanos. (Apolinário, Maria Raquel. Projeto Araribá - História - 7º ano, 2010, p. 245). 17 words.
+60 - Ao recontar uma história, é muito comum que ela seja modificada e adaptada ao público ouvinte. (Cereja, William e Cochar, Thereza. Português Linguagens -6º ano, 2015, p. 53). 16 words.
+
+Sentences retrieved from adolescents’ literary books
+
+01 - O homem ficou a noite inteira olhando aquele grande corpo escuro com cabeça luminosa. (Ayala, Walmir. Moça lua e outras lendas, 2012, p. 58).
+02 - Bateu na mesa e continuou, o rosto mais vermelho que o caminhão de bombeiros. (Cazarré, Lourenço. O mistério da obra-prima, 1993, p. 59).
+03 - De costas para a TV, a empregada lava a louça e canta baixinho um belo hino religioso. (Azevedo, Ricardo. A hora do cachorro louco, 2006, p. 12).
+04 - A essa hora o lugar está deserto e também muito escuro devido à falta de energia. (Azevedo, Ricardo. A hora do cachorro louco, 2006, p. 86).
+05 - Confessou à princesa que tudo aquilo que fez foi pelo prazer simples de trazer felicidade a alguém. (Bagno, Marcos. O espelho dos nomes, 2014, p. 59).
+06 - O rei chora, como se tivesse guardado aquela dor durante muitos séculos seguidos. (Bagno, Marcos. O espelho dos nomes, 2014, p. 117).
+07 - De uma hora para outra, tudo naquela casa parecia ter ficado velho, gasto e ultrapassado. (Azevedo, Ricardo. Trezentos parafusos a menos, 2009, p. 62).
+08 - O homem que servia cafezinho para as pessoas não se conteve e abraçou os dois músicos. (Azevedo, Ricardo. Trezentos parafusos a menos, 2009, p. 126).
+09 - Espalhados pelo pátio, outros alunos também tentavam conseguir informações sobre a nova professora, mas sem sucesso. (Barlow, Steve & Skidmore, Steve. Trans.  Lando, Isa Mara & Lando, Mauro. Estátua, 2010, p. 23).
+10 - O velho deu meia-volta e encaminhou-se de cabeça baixa para uma porta lateral. (Bandeira, Pedro. Anjo da morte, 1995, p. 68).
+11 - Assim, os passageiros daquele voo desceram normalmente e dirigiram-se para o local onde apresentariam os passaportes. (Bandeira, Pedro. Anjo da morte, 1995, p. 83).
+12 - Rolava para um lado, depois para o outro, enquanto mil pensamentos rodavam na sua cabeça. (Albissú, Nelson. É difícil de entender, vô! 2010, p. 32).
+13 - A vida foi se instalando, novamente cheia de prazer, até o galo cantar a madrugada. (Albissú, Nelson. É difícil de entender, vô! 2010, p. 36).
+14 - Ele não ouve nada e ninguém, a não ser o que passa na janela mágica. (Alencar, Alécio. Janela mágica, 1997, p. 18).
+15 - Elas desfiam o pano e depois amarram uns fios de tecido com os outros, formando desenhos. (Alegria, João & Medeiros, Rodrigo. Manual do defensor do planeta, 2012, p. 47).
+16 - Escolheram um lugar especial, no alto de uma colina, de onde dava para ver toda a cidade. (Alegria, João & Medeiros, Rodrigo. Manual do defensor do planeta, 2012, p. 140).
+17 - Disseram que estava muito frio por lá, mas que a festa era muito bonita. (Carpes, Patrícia. Naufragados, 2012, p. 11).
+18 - O pior é que não sabia nem como tinha ido parar ali, quanto mais como iria escapar. (Carpes, Patrícia. Naufragados, 2012, p. 33).
+19 - O pai costuma dizer que está com saudades delas, já que agora raramente aparecem. (Camargo, Maria. O medo do mar, 2014, p. 34).
+20 - A mulher está sorrindo e aperta sua mão com tanta força que ela sente os dedos estalando. (Camargo, Maria. O medo do mar, 2014, p. 81).
+21 - Em meio ao clarão aparece uma garra, só uma, enorme, raspando devagar o piso áspero. (Alves-Calado, Ivanir. A caverna dos Titãs, 2008, p. 07).
+22 - Os dois giraram vagarosamente, um para cada lado, olhando o depósito, até que deram de cara conosco. (Alves-Calado, Ivanir. A caverna dos Titãs, 2008, p. 129).
+23 - O inglês parou um pouco, tomando fôlego, tentando, tentando lembrar-se com esforço do que havia ouvido. (Bandeira, Pedro. A hora da verdade, 1998, p. 72).
+24 - Uma aula de Geografia arrastou-se inteirinha, até que batesse o sinal para o intervalo. (Bandeira, Pedro. A hora da verdade, 1998, p. 111).
+25 - Quando eles descobrissem qual era esse detalhe, com certeza chegariam com rapidez à solução do problema. (Bandeira, Pedro. A droga da obediência, 1997, p. 28).
+26 - Logo após serem alertados pelo alarme do banco, vários carros de polícia chegaram com as sirenes abertas. (Bandeira, Pedro. A droga da obediência, 1997, p. 61).
+27 - Sua boca abriu-se como se ele estivesse prestes a comer uma maçã com uma só dentada. (Cazarré, Lourenço. O mistério da obra-prima, 1993, p. 39).
+28 - O menino sorridente esperava por ela e adormeceu ouvindo a linda história daquele passeio. (Ayala, Walmir. Moça lua e outras lendas, 2012, p. 72). 
+29 - Mas já que não pode perguntar tudo o que quer saber, pergunta apenas o mais importante. (Colasanti, Marina. Ana Z. aonde vai você? 2007, p. 15).
+30 - Andaram muitos dias pela mata virgem até que avistaram uma porta de outra povoação. (Caruso, Carla. Zumbi. O último herói dos Palmares, 2005, p. 31). 
+
+Sentences retrieved from adolescents’ textbooks
+
+01 - As plantas também precisam de energia, porém não se alimentam da mesma forma que os animais. (do Canto, Eduardo Leite. Ciências Naturais. Aprendendo com o cotidiano. 6º ano, 2009, p. 21).
+02 - Um dos critérios que os biólogos escolheram diz respeito à maneira como o ser vivo obtém alimento. (do Canto, Eduardo Leite. Ciências Naturais. Aprendendo com o cotidiano. 7º ano, 2012, p.19).
+03 - Quando faltam nutrientes na alimentação, a pessoa pode ficar desnutrida e ter problemas de saúde. (do Canto, Eduardo Leite. Ciências Naturais. Aprendendo com o cotidiano. 6º ano, 2009, p. 82).
+04 - Uma célula é uma pequena estrutura viva, que pode ser vista com o auxílio de um microscópio. (do Canto, Eduardo Leite. Ciências Naturais. Aprendendo com o cotidiano. 7º ano, 2012, p.45).
+05 - Muitas palavras do vocabulário, alimentos e costumes do brasileiro de hoje derivam de culturas indígenas. (Vicentino, Cláudio & Vicentino, José Bruno. Projeto Mosaico - História - 6º ano, 2015, p. 63).
+06 - Uma criança que trabalha não consegue desfrutar de direitos básicos, como lazer e educação. (Vicentino, Cláudio & Vicentino, José Bruno. Projeto Mosaico - História - 6º ano, 2015, p. 177).
+07 - As terras situadas a oeste das treze colônias ficaram sob controle militar da metrópole. (Apolinário, Maria Raquel. Projeto Araribá - História - 8º ano, 2014, p. 95).
+08 - Apesar de perder a predominância, o açúcar ainda continuou sendo um produto importante para as exportações. (Apolinário, Maria Raquel. Projeto Araribá - História - 8º ano, 2014, p. 201).
+09 - A ameaça de uma invasão alemã à ilha foi utilizada como tema de vários cartazes. (Braick, Patrícia Ramos. Estudar História -9º ano, 2015, p. 69).
+10 - Durante a travessia, os comunistas conquistaram novos adeptos e difundiram suas ideias aos camponeses. (Braick, Patrícia Ramos. Estudar História -9º ano, 2015, p. 151).
+11 - Os faraós egípcios trabalhavam na construção de obras grandiosas, como túmulos, templos e palácios. (Boulos Júnior, Alfredo. História - Sociedade e Cidadania -6º ano, 2015, p. 151).
+12 - Os gregos acreditavam que os deuses podiam tanto favorecer quanto prejudicar os seres humanos. (Boulos Júnior, Alfredo. História - Sociedade e Cidadania -6º ano, 2015, p. 232).
+13 - Podemos dizer que um texto está em prosa quando ele é organizado em frases contínuas formando parágrafos. (Borgato, Ana Trinconi, Bertin, Terezinha & Marchezi, Vera. Projeto Teláris - Português -6º ano, 2014, p. 22).
+14 - A cidade é um lugar de encontro, onde as pessoas podem compartilhar a dor e a alegria. (Meira, Beá, Soter Silvia, Elia, Ricardo & Presto, Rafael. Projeto Mosaico - Arte - 7º ano, 2015, p.12).
+15 - Com a Internet, até mesmo a forma de escrever as palavras tem se modificado. (Cereja, William & Cochar, Thereza. Português Linguagens -6º ano, 2015, p. 40).
+16 - Ao recontar uma história, é muito comum que ela seja modificada e adaptada ao público ouvinte. (Cereja, William & Cochar, Thereza. Português Linguagens -6º ano, 2015, p. 53).
+17 - Os semideuses, embora tenham dons especiais, não são donos de seu destino nem imortais. (Cereja, William & Cochar, Thereza. Português Linguagens -7º ano, 2015, p. 21).
+18 - A comunicação e a troca de informações entre pessoas também ajudam a organizar o espaço geográfico. (de Sene, Eustáquio & Moreira, João Carlos. Geografia -6º ano, 2013, p. 23).
+19 - Os mapas representam áreas mais extensas da superfície da Terra; por isso não mostram muitos detalhes. (de Sene, Eustáquio & Moreira, João Carlos. Geografia -6º ano, 2013, p. 61).
+20 - Em áreas onde a vegetação está bem preservada, a água das chuvas escoa lentamente pela superfície. (de Sene, Eustáquio & Moreira, João Carlos. Geografia -6º ano, 2013, p. 145).
+21 - Os conhecimentos obtidos em viagens escolares podem ser o ponto de partida para estudos mais profundos. (Sampaio, Fernando dos Santos, de Medeiros, Marlon Clovis & da Silva, Vagner Augusto. Geografia - Para Viver Juntos -8º ano, 2012, p. 95).
+22 - As cidades crescem graças ao comércio, e, quanto maiores ficam, mais se transformam em centros de consumo. (Meira, Beá, Soter Silvia, Elia, Ricardo & Presto, Rafael. Projeto Mosaico - Arte - 7º ano, 2015, p.17).
+23 - A formação de grandes reinos ao sul do Saara esteve diretamente ligada ao comércio a longa distância. (Apolinário, Maria Raquel. Projeto Araribá - História - 7º ano, 2010, p. 50).
+24 - A intensidade da exploração dos recursos pela industrialização levou ao esgotamento total dos recursos minerais e energéticos. (Sampaio, Fernando dos Santos, de Medeiros, Marlon Clovis & da Silva, Vagner Augusto. Geografia - Para Viver Juntos -9º ano, 2012, p. 87).
+25 - As regiões polares, também chamadas de polos, localizam-se nos extremos norte e sul do planeta. (Sampaio, Fernando dos Santos, de Medeiros, Marlon Clovis & da Silva, Vagner Augusto. Geografia - Para Viver Juntos -9º ano, 2012, p. 249).
+26 - Em uma multiplicação, é possível trocar a ordem dos fatores que o resultado não se altera. (Souza, Joamir & Pataro, Patricia Moreno. Vontade de Saber - Matemática - 6º ano, 2015, p. 68).
+27 - Para medirmos o tempo do dia, utilizamos o relógio, que pode ser de ponteiros ou digital. (Souza, Joamir & Pataro, Patricia Moreno. Vontade de Saber - Matemática - 6º ano, 2015, p. 254).
+28 - Os sons podem ser classificados com base no estudo e características das fontes sonoras. (Utuari, Solange, Kater, Carlos, Fischer Bruno & Ferrari, Pascoal. Por toda Parte - Artes - 6º ano, 2015, p. 39).
+29 - As denúncias de trabalho escravo também atingem os caminhoneiros, outros trabalhadores que podem ser considerados escravos urbanos. (Apolinário, Maria Raquel. Projeto Araribá - História - 7º ano, 2010, p. 245).
+30 - Os trabalhadores informais exercem atividades rurais, na construção civil, em oficinas, fábricas e no setor de transporte. (Sampaio, Fernando dos Santos, de Medeiros, Marlon Clovis & da Silva, Vagner Augusto. Geografia - Para Viver Juntos -7º ano, 2012, p. 73).

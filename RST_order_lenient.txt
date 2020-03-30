@@ -1,0 +1,94 @@
+Reading Span Test (Teste de Capacidade de Leitura) (Tomitch, 2003)
+Sentences Order - Lenient Method
+
+Set 1 - 2 sentences
+1 - O Intelsat-6 foi lançado em 1990, mas nunca funcionou - ficou numa órbita errada. 
+2 - A iniciativa deve partir da própria pessoa interessada em ter um corpo bonito e saudável. 
+
+Set 2 - 4 sentences
+1 - Se o Brasil pretende ir ao espaço sem pedir licença, não pode dispensar um programa de foguetes. 
+2 - O médico deve levar em conta a idade, número de filhos e saúde do paciente. (15 palavras). 
+3 - Soube que o marido não ganhou o direito de protestar contra o abandono em momento tão delicado. 
+4 - Nós pedimos para o mundo falar e a mensagem soou alta, clara e extraordinariamente perfeita. 
+
+Set 3 - 6 sentences
+1 - O telefone celular pode ser usado em qualquer ponto da cidade coberto por uma célula. 
+2 - Grandes quantidades de sal tornam a água mais pesada ou densa, diminuindo, em consequência, seu volume. 
+3 - Como seres civilizados, deixamos as cavernas nas últimas glaciações, no início da Idade da Pedra Polida. 
+4 - A desvalorização é o que mais dói no orgulho nacional e no bolso de suas vítimas. 
+5 - É quase impossível ter um critério justo, e a decisão acaba ficando nas mãos da burocracia. 
+6 - Os efeitos do sal na pressão das artérias dependem de outros minerais no organismo. (14 
+
+
+Set 4 - 3 sentences
+1 - Para realizar as atividades cerebrais do pensamento, os neurônios tiram energia do oxigênio e da glicose. 
+2 - O processo de fabricação é o problema que aflige a maior parte dos pequenos empresários. 
+3 - Cerca de 250 milhões de pessoas, ao redor do mundo, se encontram na mais profunda depressão. 
+
+Set 5 - 5 sentences
+1 - O Brasil reforça sua presença no milionário clube da telefonia celular com o anúncio de novos editais. 
+2 - Quando o cineasta dá rédea solta ao puro amor pelas imagens, o filme arrebata os sentidos. 
+3 - Na catarata, a vítima perde a visão gradualmente porque as células do cristalino tornam-se mais opacas. 
+4 - É difícil acreditar no acidente que interrompeu a arrancada do trem voador japonês, rumo às rotas comerciais. 
+5 - Os conservadores usaram e abusaram das teses de perversidade, da futilidade e da ameaça. 
+
+Set 6 - 2 sentences
+1 - A igreja do bispo extorque dinheiro dos fiéis, que são obrigados a fazer doações compulsórias nos cultos. 
+2 - As bactérias degradam as emulsões coloridas do filme, criando imagens que podem ser definidas como futuristas. 
+
+Set 7 - 4 sentences
+1 - A obra custou caro demais, a utilidade é incerta e o resultado final, polêmico. 
+2 - É a primeira vez que se consegue em órbita a ovulação e fertilização de espécies animais. 
+3 - Os fabricantes de microcomputadores estão criando produtos com novas tecnologias, a preços mais atraentes. 
+4 - Pesquisadores descobrem que o antílope das pradarias norte-americanas é o mais resistente dos mamíferos terrestres. 
+
+Set 8 - 6 sentences
+1 - Mesmo sem saber o índice de queda nas vendas, desvalorizou as ações da empresa. 
+2 - Para os oitenta milhões de telespectadores brasileiros, a televisão significa lazer acessível e barato. 
+3 - É preciso desmontar os motores em terra para prever as falhas, trabalho que consome tempo e dinheiro. 
+4 - O paciente precisa de ressuscitação cardiorrespiratória o mais rápido possível, feita por pessoas treinadas. 
+5 - Segundo o piloto, a chuva fez com que o desgaste dos pneus fosse excessivo na corrida. 
+6 - O povo com certeza irá ocupar as ruas para mostrar aos deputados o que querem seus eleitores. 
+
+Set 9 - 3 sentences
+1 - O presidente francês tem um câncer na próstata que pode ser tratado com medicamentos. 
+2 - Uma manifestação estudantil ontem em Brasília foi marcada por atritos com a polícia militar. 
+3 - Mostra a capacidade do homem em transformar coisas simples em obras de arte, através da dedicação. 
+
+Set 10 - 5 sentences
+1 - Elas mostraram sinais de rotas das caravanas de mercadores, que levaram os pesquisadores à cidade. 
+2 - Cartão-postal sob suspeita: radiação eletromagnética das antenas na Avenida Paulista pode afetar a saúde humana. 
+3 - O investidor pode estar procurando a segurança do ouro, um investimento tradicional, neste momento de crise política. 
+4 - As fêmeas dos escorpiões só deixavam os abrigos dez vezes por ano, no máximo. 
+5 - Não se vê um único exemplar das cem carpas japonesas que vivem no lago artificial. 
+
+Set 11 - 2 sentences
+1 - A padronização agrícola, para atender aos consumidores, ameaça a diversidade biológica do mundo vegetal. 
+2 - O governo desistiu de limitar a importação de carros, conforme proposta defendida pela Secretaria Nacional da Economia. 
+
+
+Set 12 - 4 sentences
+1 - O neandertal tinha testa curta e grossa, mandíbula forte, de queixo curto, e seus ossos eram pesados. 
+2 - Depois de rejeitar acordo em plebiscito, a Dinamarca quer alterar a tendência de centralismo da unificação europeia. 
+3 - Às vésperas do fim da reserva da informática, cresce a pressão por novos privilégios e favores. 
+4 - Seu público eram as pessoas que olham muito para a pechincha e pouco para a qualidade. 
+
+Set 13 - 6 sentences
+1 - É a primeira vez que o Brasil vende tênis em quantidades expressivas no exterior. 
+2 - O resto é luz do céu, claridade que desce da lua prateando a superfície gelada. 
+3 - O IBGE lançou um Atlas que mostra trezentas e três espécies animais ameaçadas de extinção. 
+4 - O equipamento tem memória que permite dar ao usuário detalhes sobre eventuais defeitos em processos industriais. 
+5 - Os bosques de mangues, regados pelas marés, garantem comida farta para a fauna dos oceanos. 
+6 - Hoje, quando o planeta é visto de cima pelos satélites, seus contornos não têm mais segredo. 
+
+Set 14 - 3 sentences
+1 - A expressão refere-se à tentativa de conciliar o progresso com a preservação da natureza. 
+2 - Uma proteína do amendoim ajudou células retiradas de tumores do intestino grosso a se reproduzirem em laboratório. 
+3 - Pesquisa do Sebrae aponta que o novo salário mínimo deve provocar uma onda de demissões. 
+
+Set 15 - 5 sentences
+1 - Os satélites ajudam os oceanógrafos a descobrir a temperatura da água em diversos locais do planeta. 
+2 - Nos casos de históricos de vida sedentária, evitar esportes anaeróbicos que exigem melhor condicionamento físico. 
+3 - Catástrofes à parte, a maior atração da viagem são a própria Galáxia e seus incríveis habitantes. 
+4 - O computador mostrou que, mesmo sem se quebrarem, alguns capacetes transmitem muita energia mecânica para a cabeça. 
+5 - A saúde instável do Presidente serviu como outro elemento psicológico do ataque de nervos do mercado.
