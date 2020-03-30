@@ -7,7 +7,7 @@ Set 1 - 2 sentences
 
 Set 2 - 4 sentences
 1 - Se o Brasil pretende ir ao espaço sem pedir licença, não pode dispensar um programa de foguetes. 
-2 - O médico deve levar em conta a idade, número de filhos e saúde do paciente. (15 palavras). 
+2 - O médico deve levar em conta a idade, número de filhos e saúde do paciente. 
 3 - Soube que o marido não ganhou o direito de protestar contra o abandono em momento tão delicado. 
 4 - Nós pedimos para o mundo falar e a mensagem soou alta, clara e extraordinariamente perfeita. 
 
@@ -17,7 +17,7 @@ Set 3 - 6 sentences
 3 - Como seres civilizados, deixamos as cavernas nas últimas glaciações, no início da Idade da Pedra Polida. 
 4 - A desvalorização é o que mais dói no orgulho nacional e no bolso de suas vítimas. 
 5 - É quase impossível ter um critério justo, e a decisão acaba ficando nas mãos da burocracia. 
-6 - Os efeitos do sal na pressão das artérias dependem de outros minerais no organismo. (14 
+6 - Os efeitos do sal na pressão das artérias dependem de outros minerais no organismo.
 
 
 Set 4 - 3 sentences
