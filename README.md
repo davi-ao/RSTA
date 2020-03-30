@@ -1,4 +1,4 @@
-# Reading Span Test for Adolescent Speakers of Brazilian Portuguese (in press)
+# Measuring Adolescents' Working Memory Capacity: A Version of the Reading Span Test for Speakers of Brazilian Portuguese (in press)
 
 This repository contains the sentences used in two tests of working memory capacity, the Brazilian Portuguese version (Tomitch, 2003) of the Reading Span Test (RST, Daneman & Carpenter, 1980) and the Reading Span Test for Adolescent Speakers of Brazilian Portuguese (RSTA, in press). The latter was developed as part of a study that compared the tests to check the reliability of the RSTA with this specific category of participants, adolescent speakers of Brazilian Portuguese, in comparison with the RST. The study used the tests in two conditions that are explained in the article reporting the results of the study (in press). The files in the repository are briefly described in sequence.
 
